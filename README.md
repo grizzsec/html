@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chretienhtml" alt="chretienhtml" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chretienlopez" target="blank"><img src="https://img.shields.io/twitter/follow/chretienlopez?logo=twitter&style=for-the-badge" alt="chretienlopez" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chretienlopez" target="blank"><img src="https://img.shields.io/twitter/follow/chretienlopez?logo=twitter&style=for-the-badge" alt="chretiengnz" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, GIT.**
 
