@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian López</h1>
+<h1 align="center">Hi 👋, I'm Christian González</h1>
 <h3 align="center">A passionate developer student from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chretienhtml&label=Profile%20views&color=0e75b6&style=flat" alt="chretienhtml" /> </p>
