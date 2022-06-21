@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chretienlopez" target="blank"><img src="https://img.shields.io/twitter/follow/chretienlopez?logo=twitter&style=for-the-badge" alt="chretienlopez" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, GIT.**
+- 🌱 I’m currently learning **HTML, CSS, GIT.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
